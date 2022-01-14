@@ -3,6 +3,9 @@ Project written in Python
 Inspired by Hilbert Curves:
 - https://en.wikipedia.org/wiki/Hilbert_curve
 
+**Dependecies:**\
+pygame
+
 **How to run:**__**\
 python script.py
 
